@@ -1,2 +1,3 @@
 # Doanmonhoc
-đồ án trích xuất căn cước công dân
+đồ án nhận đạng fakenews
+
